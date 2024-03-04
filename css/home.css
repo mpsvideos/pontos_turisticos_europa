@@ -1,4 +1,12 @@
-.torre_eiffel, .coliseu, .museu_vaticano, .direitos {
+.torre_eiffel {
+    text-align: center;
+}
+
+.coliseu {
+    text-align: center;
+}
+
+.museu_vaticano {
     text-align: center;
 }
 
@@ -14,7 +22,7 @@ body {
     background-color: rgb(253, 246, 238);
 }
 
-footer{
+footer p {
     margin: 9% auto;
 }
 
