@@ -1,0 +1,26 @@
+.torre_eiffel, .coliseu, .museu_vaticano, .direitos {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(253, 246, 238);
+}
+
+footer{
+    margin: 9% auto;
+}
+
+/*Estilizando imagem*/
+img {
+    border-radius: 8%;
+    max-width: 100%;  /* Garante que a imagem não ultrapasse a largura do contêiner pai */
+    height: auto;     /* Mantém a proporção da imagem */
+}
